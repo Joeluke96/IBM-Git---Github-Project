@@ -1,5 +1,5 @@
 # IBM-Git---Github-Project
-week 3 project for Coursera's IBM Getting started with Git and Github" course.
+week 3 project for Coursera's "IBM Getting started with Git and Github" course.
 
 ## Simple Interest Calculator
 
